@@ -1,0 +1,13 @@
+cubesat-attitude-determination/          ← this is your main folder
+├── README.md                            ← you already created this
+├── LICENSE
+├── .gitignore
+├── docs/
+│   ├── final_report.pdf
+│   └── presentation.pdf
+├── src/
+│   ├── python/          ← ← ← put ALL your Python files here
+│   └── cpp/             ← ← ← put ALL your C/C++ files here
+├── data/                ← (optional) sample sensor data
+├── results/             ← (optional) plots, graphs
+└── requirements.txt     ← (optional but recommended)
